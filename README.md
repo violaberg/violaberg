@@ -1,7 +1,12 @@
-<h1 align="center">Hello &nbsp;![](), I'm Viola</h1>
+<h1 align="center">Hello &nbsp;<img src="static/eyes.gif" width="48">, I'm Viola</h1>
 
 <p align="center">
-  Full Stack Developer | Hackathon Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffa500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Idea+Creator;Designer;Creative+Visionary;Hackathon+Enthusiast;Writer;" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  Full Stack Developer | Hackathon Enthusiast | Creative Visionary
 </p>
 
 <p align="center">
@@ -11,7 +16,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm a Full Stack Web Developer with a passion for frontend development and creative problem-solving. Currently diving deeper into React.js and exploring AI technologies, aiming to blend creativity with cutting-edge tech to build innovative solutions.
+  I'm a Full Stack Web Developer with a passion for frontend development and creative problem-solving. Currently diving deeper into React.js and exploring AI technologies, aiming to blend creativity and knowledge about design with cutting-edge tech to build innovative solutions.
 In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love for designing and constructing in both the physical and digital worlds. I regularly attend developer meetups to share knowledge and keep up with the latest industry trends. I’m also a dedicated hackathon participant, always seeking new challenges and opportunities to collaborate.<br>
   I love connecting with like-minded developers and creators, so feel free to reach out if you'd like to collaborate or chat about tech!
 </p>
@@ -63,6 +68,12 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
           <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://getbootstrap.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
+        </a>
+        <br>Bootstrap
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
@@ -160,7 +171,7 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+      <th colspan="4" align="center" style="color: white;">Cloud Providers</th>
     </tr>
   </thead>
   <tbody>
@@ -174,6 +185,9 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/><br>Heroku
+      </td>
     </tr>
   </tbody>
 </table>
@@ -185,19 +199,47 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">Tools</th>
+      <th colspan="4" align="center" style="color: white;">Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="" alt="Balsamiq" width="50" height="50"/><br>Balsamiq
+        <img src="static/Canva_logo.svg.png" alt="Canva" width="50" height="50"/><br>Canva
       </td>
       <td align="center" style="border: none;">
-        <img src="" alt="Canva" width="50" height="50"/><br>Canva
+        <img src="static/lucidchart_logo.png" alt="Lucidchart" width="50" height="50"/><br>Lucidchart
       </td>
       <td align="center" style="border: none;">
-        <img src="" alt="Lucidchart" width="50" height="50"/><br>Lucidchart
+        <img src="static/balsamiq_logo-removebg-preview.png" alt="Balsamiq" width="50" height="50"/><br>Balsamiq
+      </td>
+      <td align="center" style="border: none;">
+        <img src="static/drawio.png" alt="Drawio" width="50" height="50"/><br>Drawio
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Version Control & Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td align="center" style="border: none;">
+        <img src="static/gitpod_logo.png" alt="Gitpod" width="50" height="50"/><br>Gitpod
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"/><br>VSCode
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
       </td>
     </tr>
   </tbody>
