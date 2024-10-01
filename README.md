@@ -1,12 +1,12 @@
 <h1 align="center">Hello &nbsp;<img src="static/eyes.gif" width="48">, I'm Viola</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffa500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Idea+Creator;Designer;Creative+Visionary;Hackathon+Enthusiast;Writer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffa500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Idea+Creator;Designer;Creative+Visionary;Hackathon+Enthusiast;Writer;Beta+Tester;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Full Stack Developer | Hackathon Enthusiast | Creative Visionary
+  Full Stack Developer | Beta Tester | Hackathon Enthusiast
 </p>
 
 <p align="center">
