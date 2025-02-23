@@ -9,6 +9,12 @@
   Full Stack Developer | Beta Tester | Hackathon Enthusiast
 </p>
 
+<div align="center">
+  <a href="https://violab.tech/" target="_blank">🔗 Click here to visit my portfolio</a>
+</div>
+
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=violaberg&color=green&label=Profile+Views" alt="Profile views" width="150" height="25">
 </p>
@@ -17,7 +23,7 @@
 
 <p align="center">
   I'm a Full Stack Web Developer with a passion for frontend development and creative problem-solving. Currently diving deeper into React.js and exploring AI technologies, aiming to blend creativity and knowledge about design with cutting-edge tech to build innovative solutions.
-In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love for designing and constructing in both the physical and digital worlds. I regularly attend developer meetups to share knowledge and keep up with the latest industry trends. I’m also a dedicated hackathon participant, always seeking new challenges and opportunities to collaborate.<br>
+In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love for designing and constructing in both the physical and digital worlds. I regularly attend developer meetups to share knowledge and keep up with the latest industry trends. I’m also a dedicated hackathon participant and hackteam member, always seeking new challenges and opportunities.<br>
   I love connecting with like-minded developers and creators, so feel free to reach out if you'd like to collaborate or chat about tech!
 </p>
 
