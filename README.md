@@ -171,7 +171,7 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Cloud Providers</th>
+      <th colspan="5" align="center" style="color: white;">Cloud Providers</th>
     </tr>
   </thead>
   <tbody>
@@ -186,10 +186,10 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/><br>Heroku
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/><br>Vercel
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/><br>Vercel
+        <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/><br>Heroku
       </td>
     </tr>
   </tbody>
