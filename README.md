@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <a href="https://violab.tech/" target="_blank">🔗 Click here to visit my portfolio</a>
+  <a href="https://violab.tech/" target="_blank">Click here to visit my portfolio</a>
 </div>
 
 <br>
@@ -69,12 +69,6 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
       <td align="center" style="border: none;">
         <a href="https://getbootstrap.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
@@ -144,7 +138,7 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+        <img src="https://skillicons.dev/icons?i=next" width="50" height="50" alt=Next/><br>Next
       </td>
     </tr>
   </tbody>
@@ -193,6 +187,9 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="50" height="50"/><br>Heroku
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/><br>Vercel
       </td>
     </tr>
   </tbody>
@@ -257,44 +254,44 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Frebuild-ireland-frontend&subtitle=ReBuild+Ireland&size=square" target="_blank">
+      <a href="https://github.com/violaberg/rebuild-ireland-frontend" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Frebuild-ireland-frontend&subtitle=ReBuild+Ireland&size=square" alt="ReBuild Ireland" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fstar-wars-hackathon-2024-ireland-frontend&subtitle=Inner+Force&size=square" target="_blank">
+      <a href="https://github.com/violaberg/star-wars-hackathon-2024" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fstar-wars-hackathon-2024-ireland-frontend&subtitle=Inner+Force&size=square" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Finfinity-health-hub&subtitle=Infinity+Health+Hub&size=square" target="_blank">
+      <a href="https://github.com/violaberg/infinity-health-hub" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Finfinity-health-hub&subtitle=Infinity+Health+Hub&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fvalentine-ventures&subtitle=Valentine+Ventures&size=square" target="_blank">
+      <a href="https://github.com/violaberg/valentine-ventures" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fvalentine-ventures&subtitle=Valentine+Ventures&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fnew-years-countdown&subtitle=Loading+2024...&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fnew-years-countdown&subtitle=Loading+2024...&size=square" alt="Viola Bergere" style="margin: 10px;">
+      <a href="https://github.com/violaberg/ForThe50" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fnew-years-countdown&subtitle=ForThe50&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Flucky13&subtitle=The+Scaaaaary+Life+of+Coders&size=square" target="_blank">
+      <a href="https://github.com/violaberg/lucky13" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Flucky13&subtitle=The+Scaaaaary+Life+of+Coders&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Flucky13&subtitle=The+Scaaaaary+Life+of+Coders&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Flucky13&subtitle=The+Scaaaaary+Life+of+Coders&size=square" alt="Viola Bergere" style="margin: 10px;">
+      <a href="https://github.com/violaberg/dating-app" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Flucky13&subtitle=Spark+Sync&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fgreenways&subtitle=Greenways&size=square" target="_blank">
+      <a href="https://github.com/violaberg/greenways" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg%2Fgreenways&subtitle=Greenways&size=square" alt="Viola Bergere" style="margin: 10px;">
       </a>
     </td>
@@ -306,12 +303,12 @@ In addition to coding, I’m an enthusiastic LEGO fan, which inspires my love fo
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviola-bergere%2F&subtitle=Viola+Bergere&size=square" target="_blank">
+      <a href="https://www.linkedin.com/in/viola-bergere" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviola-bergere%2F&subtitle=Viola+Bergere&size=square" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg&subtitle=Viola+Bergere&size=square" target="_blank">
+      <a href="https://https://github.com/violaberg" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fviolaberg&subtitle=Viola+Bergere&size=square" style="margin: 10px;">
       </a>
     </td>
