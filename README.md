@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer | Beta Tester | Hackathon Enthusiast
+  Full Stack Developer | Beta Tester | Hackathon Enthusiast | Hackteam Member
 </p>
 
 <div align="center">
